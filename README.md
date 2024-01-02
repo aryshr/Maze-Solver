@@ -16,10 +16,8 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href=""><img src="[Screenshot 2024-01-02 135534](https://github.com/aryshr/Maze-Solver/assets/118653568/6d2b0e2c-d041-4489-b0de-f88ba67a0aaf)" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="![Screenshot 2024-01-02 135602](https://github.com/aryshr/Maze-Solver/assets/118653568/c15282fc-c5d2-4db9-af50-b63b98220b22)" alt='image' width='800'/></a> </div>
 
-
+![Screenshot 2024-01-02 135534](https://github.com/aryshr/Maze-Solver/assets/118653568/5976cb1c-dd22-49b7-8e97-f59b99d3d93d)
 
 ### :dart: Features
 - Mark the Shortest path from Start to the End Point
