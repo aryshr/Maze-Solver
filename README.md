@@ -18,6 +18,7 @@
 ### :camera: Screenshots
 
 ![Screenshot 2024-01-02 135534](https://github.com/aryshr/Maze-Solver/assets/118653568/5976cb1c-dd22-49b7-8e97-f59b99d3d93d)
+![Screenshot 2024-01-02 135602](https://github.com/aryshr/Maze-Solver/assets/118653568/732f6a90-59b9-49c4-aa4c-b67eb8b36c3c)
 
 ### :dart: Features
 - Mark the Shortest path from Start to the End Point
